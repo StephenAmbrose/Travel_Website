@@ -1,0 +1,38 @@
+.destinations-section {
+    padding: 2rem 0;
+    text-align: center;
+    position: relative;bottom: 350px;
+  }
+ h1
+ {
+  position: relative;bottom: 40px;
+ }
+  
+  .destination-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .destination-card {
+    width: 550px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .destination-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .destination-card h3 {
+    margin-top: 10px;
+  }
+  
+  .destination-card p {
+    color: #666;
+  }
+  

@@ -1,0 +1,9 @@
+*{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+ body { 
+    /* overflow-y: hidden; Hide vertical scrollbar */
+     overflow-x: hidden;  
+  }
